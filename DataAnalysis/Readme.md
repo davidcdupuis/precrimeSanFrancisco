@@ -1,0 +1,4 @@
+- Fichier train modifie : Modifications du fichier train original.
+- Resultats : Résultats des analyses.
+- DifferentDescriptions : Enumeration de toutes les Descriptions de Crimes.
+- DifferentResolutions : Enumeration de toutes les différentes Résolutions de crimes.
